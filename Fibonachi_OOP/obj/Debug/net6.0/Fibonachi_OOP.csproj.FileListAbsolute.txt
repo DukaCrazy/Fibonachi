@@ -1,0 +1,15 @@
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.csproj.AssemblyReference.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.AssemblyInfoInputs.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.AssemblyInfo.cs
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.csproj.CoreCompileInputs.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\bin\Debug\net6.0\Fibonachi_OOP.exe
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\bin\Debug\net6.0\Fibonachi_OOP.deps.json
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\bin\Debug\net6.0\Fibonachi_OOP.runtimeconfig.json
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\bin\Debug\net6.0\Fibonachi_OOP.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\bin\Debug\net6.0\Fibonachi_OOP.pdb
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\refint\Fibonachi_OOP.dll
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.pdb
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\Fibonachi_OOP.genruntimeconfig.cache
+C:\Users\yujin\OneDrive\Área de Trabalho\OOP\Fibonachi_OOP\Fibonachi_OOP\obj\Debug\net6.0\ref\Fibonachi_OOP.dll
